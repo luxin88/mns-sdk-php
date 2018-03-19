@@ -1,12 +1,12 @@
 {
-  "name": "aliyuncs/mns-sdk-php",
+  "name": "luxin88/mns-sdk-php",
   "description": "Aliyun OSS SDK for PHP",
   "homepage": "http://www.aliyun.com/product/mns/",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "luxin88",
+      "name": "Aliyuncs",
       "homepage": "http://www.aliyun.com"
     }
   ],
